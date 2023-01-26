@@ -4,21 +4,6 @@
 <head>
     <title>CSZIN</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <style>
-        body{
-            background-color: #1e1e1e;
-            color: #fff;
-        }
-        header{
-            background-color: #333;
-        }
-        section{
-            background-color: #3d3d3d;
-        }
-        img{
-            width: 100%;
-        }
-    </style>
 </head>
 
 <body>
@@ -33,10 +18,14 @@
         </nav>
     </header>
     <main>
+        <a href="https://www.depicus.com/wake-on-lan/woli?m=0C54A541F10A&i=csgo.eduardotv.com.br&s=255.255.255.255&p=9" target="_blank">
+    <button>Ligar Servidor</button>
+</a>
+
         <section id="about">
             <h2>Sobre o CSGO</h2>
             <p>Counter-Strike: Global Offensive (CSGO) é um jogo de tiro em primeira pessoa altamente competitivo e estratégico. Os jogadores se unem em equipes terroristas ou contra-terroristas e lutam em vários mapas e modos de jogo.</p>
-            <img src="https://cdn.vox-cdn.com/thumbor/3WZs8KjvA4i4F4Cd4Wj8fYvjKkc=/0x0:1366x768/920x613/filters:focal(564x254:780x470):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56959153/csgo.0.jpg" alt="CSGO">
+            <img src="csgo.jpg" alt="CSGO">
         </section>
         <section id="news">
             <h2>Últimas Notícias</h2>
@@ -53,4 +42,18 @@
                 <input type="text" id="name" name="name">
                 <br>
                 <label for="email">Email:</label>
-                <a href="https://www.depicus.com/wake-on-lan/woli?m=0C54A541F10A&i=csgo.edu
+                <input type="email" id="email" name="email">
+                <br>
+                <label for="message">Mensagem:</label>
+                <textarea id="message" name="message"></textarea>
+                <br>
+                <input type="submit" value="Enviar">
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright CSZIN</p>
+    </footer>
+</body>
+
+</html>
