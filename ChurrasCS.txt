@@ -2,6 +2,11 @@ Data: 22 de julho de 2023
 Local: Residencial Bucareste setor universitário
 Horário: 9 horas da manhã horário de Brasília 
 Valor: R$ 30,00 por pessoa
+O espaço contará com amplas mesas para os computadores,
+confortáveis cadeiras e climatizador 
+Será feito uma "vaquinha" para comprar tira-gosto e o almoço 
+Cada um deverá levar sua própria bebida.
 Será disponibilizado 1(uma) tomada de energia por jogador
-A conexão de rede se dará exclusivamente por cabo
-
+A conexão de rede se dará exclusivamente por cabo (RJ45)
+A a versão do CS será a última disponível
+Contamos com a colaboração dos jogadores para compartilhar o 4G com o servidor 
